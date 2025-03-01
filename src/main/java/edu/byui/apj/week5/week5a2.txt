@@ -1,0 +1,12 @@
+"C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1.1\lib\idea_rt.jar=54411:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\drews\IdeaProjects\stj\target\classes edu.byui.apj.week5.MathTest
+706.8583470577034
+25
+54321
+true
+false
+7fff
+2020-02-20
+Invalid input: Must be a 8-digit number.
+1
+
+Process finished with exit code 0
